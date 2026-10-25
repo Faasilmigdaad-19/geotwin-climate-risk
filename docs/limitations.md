@@ -1,0 +1,8 @@
+- Heat is a built-up proxy (buildings, green cover, water cover). It is not measured land-surface or air temperature.
+- Flood susceptibility is a relative score from terrain and mapped features. It is not a flood probability, depth or forecast.
+- Weights are expert assumptions and are not calibrated. No validation against observed floods has been done yet.
+- OpenStreetMap water is incomplete: large multipolygon lakes and marshes were skipped, so water cover is likely underestimated.
+- The elevation data (open terrain tiles) has limited vertical accuracy. It does not show drains or underground drainage.
+- Exposure is the count of mapped buildings, not population. Building density is used in several indicators, so they are correlated.
+- Stability shows sensitivity to weights only. It does not cover errors in the input data.
+- This is a decision-support prototype. It does not replace official flood warnings or engineering assessments.
