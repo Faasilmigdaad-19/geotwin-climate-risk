@@ -1,0 +1,13 @@
+{
+  "retrieved": "2026-10-25",
+  "bbox_wsen": [
+    80.18,
+    12.92,
+    80.26,
+    13.0
+  ],
+  "cell_m": 500,
+  "crs": "EPSG:32644",
+  "elevation": "AWS Terrain Tiles (Terrarium), zoom 14, ~10 m pixels",
+  "water_green_buildings": "OpenStreetMap via Overpass API (ODbL). Ways only; relations skipped."
+}
